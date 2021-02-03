@@ -29,3 +29,12 @@ h1{
   color: black;
   text-align: center;
 }
+
+body{
+height: 100%;
+width:auto;
+}
+
+img{
+  float: right;
+}
