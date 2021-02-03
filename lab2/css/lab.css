@@ -1,0 +1,31 @@
+body{
+  background: lightblue;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    color: darkblue;
+}
+
+main{
+  border: 5px;
+  color: black;
+  border-style: solid;
+  background-color: white;
+  padding: 20px;
+  margin: 15px;
+}
+
+
+footer{
+   position:fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: white;
+   color: white;
+   text-align: center;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
