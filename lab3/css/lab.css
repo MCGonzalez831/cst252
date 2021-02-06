@@ -1,0 +1,28 @@
+body{
+  background-color: lightblue;
+  font-family: arial, sans-serif;
+  padding: 10px;
+}
+
+main{
+  border: solid 10px darkblue;
+  color: black;
+  background-color: white;
+  padding: 25px;
+}
+
+img{
+  width: 50%;
+  height: auto;
+  align-items: center;
+}
+
+nav a{
+  color: blue;
+}
+
+a:hover{
+  border: dotted;
+  color: pink;
+  background-color: black;
+}
