@@ -1,0 +1,21 @@
+body{
+  background-image:url(../img/sailor.jpg);
+  font-family: arial, sans-serif;
+  padding: 60px;
+}
+
+main{
+  background-color: white;
+  border: solid 10px yellow;
+  padding: 20px;
+}
+
+img{
+  float:right;
+  border: solid 5px black;
+display: block;
+}
+
+nav{
+  size: 20px;
+}
