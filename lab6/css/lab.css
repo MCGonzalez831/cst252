@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.js{
+  border: solid black 5px;
+}
+
+body{
+  background-image:url(../img/moon.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+}
+
+main{
+  background-color: white;
+  border: solid 10px #bf86bf;
+  padding: 30px;
+  font-family: "Poppins";
+}
+
+.row{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: "Press Start 2P";
+  font-size: 20px;
+}
+
+h2{
+  font-family: "Press Start 2P";
+  font-size: 15px;
+}
+
+.js{
+  padding: 30px;
+  border:solid 5px #bf86bf;
+}
+
+img{
+    object-fit: contain;
+    width: 300px;
+    height: auto;
+  float: right;
+}
