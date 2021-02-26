@@ -1,0 +1,35 @@
+body{
+  background-image:url(../img/city.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+}
+
+main{
+    background-color: white;
+    border: solid 10px lightpink;
+    padding: 30px;
+    font-family: "poppins";
+  }
+
+  h1, h2{
+    font-family: "DotGothic16";
+  }
+
+  nav{
+    font-family: "DotGothic16";
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .row {
+    display: flex;
+  }
+
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
