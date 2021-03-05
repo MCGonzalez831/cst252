@@ -1,0 +1,23 @@
+body{
+  background-image:url(../img/cell.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+}
+
+
+main{
+    background-color: white;
+    border: solid 10px teal;
+    padding: 30px;
+    font-family: "poppins";
+  }
+
+  h1, h2{
+    font-family: "DotGothic16";
+  }
+
+  nav{
+    font-family: "DotGothic16";
+  }
