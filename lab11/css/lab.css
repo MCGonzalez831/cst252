@@ -1,0 +1,32 @@
+body{
+  background-image:url(../img/harry.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+}
+
+main{
+    background-color: white;
+    border: solid 10px orange;
+    padding: 30px;
+    font-family: "poppins";
+  }
+
+  h1, h2{
+    font-family: "poppins";
+  }
+
+  nav{
+    font-family:"poppins";
+  }
+
+.input-output{
+  border: solid 5px orange;
+  padding: 20px;
+  font-family: "poppins";
+}
+
+.house{
+  align-items: right;
+}
