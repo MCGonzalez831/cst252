@@ -22,6 +22,10 @@ main{
     font-family:"DotGothic16";
   }
 
+#table{
+  padding: 15px;
+}
+
 #output{
   padding: 15px;
   border: black 5px solid;
