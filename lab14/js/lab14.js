@@ -1,4 +1,4 @@
-/* lab9.js
+/* lab14.js
  *Author: Mirna Gonzalez <mirngonzalez@ucsc.edu>
  *Created: 22 March
  *License: Public Domain

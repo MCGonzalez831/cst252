@@ -1,6 +1,6 @@
 body{
   background-color: lightblue;
-  background-image:url(../img/koi.gif);
+  background-image:url(../img/stars.gif);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,10 +23,6 @@ main{
     font-family:"DotGothic16";
   }
 
-img{
-  float: center;
-  opacity: 100%;
-}
 
 caption{
   align-items: baseline;
