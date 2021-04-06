@@ -11,8 +11,9 @@ main{
   color: black;
   border-style: solid;
   background-color: white;
-  padding: 20px;
-  margin: 15px;
+  padding: 24px;
+  margin: 20px;
+  font-size: 20px;
 }
 
 
