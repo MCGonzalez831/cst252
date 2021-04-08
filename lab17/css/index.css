@@ -1,0 +1,23 @@
+body{
+  background-color: lightblue;
+  background-image:url(../img/mood.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 60px;
+}
+
+main{
+    background-color: white;
+    border: solid 10px black;
+    padding: 30px;
+    font-family: "poppins";
+  }
+
+  h1, h2, h3{
+    font-family: "DotGothic16";
+  }
+
+  nav{
+    font-family:"DotGothic16";
+  }
